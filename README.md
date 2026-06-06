@@ -26,10 +26,10 @@ name        : Pham Quoc An (Phạm Quốc An)
 born        : 2004  |  Nghe An, Vietnam 🇻🇳
 role        : AI Engineer @ AnovaLabs (Netherlands 🇳🇱) — Remote
 education   : B.Sc. Information Technology — Specialization: Artificial Intelligence
-university  : CMC University  |  Graduated with Distinction (GPA: Excellent)
+university  : CMC University  |  Graduated with Distinction
 language    : Vietnamese (Native)  |  English (IELTS Academic)
 goal        : Master's Degree at a top European University 🇪🇺
-research    : Computer Vision · NLP · Deep Learning · Generative AI
+research    : Computer Vision · NLP · Deep Learning · Generative AI · MLOps
 ```
 
 > *"IT is not just dry lines of code — it is a tool to optimize human labor and create value for society."*
@@ -63,16 +63,16 @@ research    : Computer Vision · NLP · Deep Learning · Generative AI
 
 ### 👁️ Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
 ![Tesseract](https://img.shields.io/badge/Tesseract%20OCR-5C3EE8?style=for-the-badge&logo=googlelens&logoColor=white)
 
 ### 💬 NLP & Generative AI
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![BERT](https://img.shields.io/badge/BERT-0052CC?style=for-the-badge&logo=google&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM%20Engineering-6C63FF?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=databricks&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge&logoColor=white)
 ![Prompt Eng.](https://img.shields.io/badge/Prompt%20Engineering-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-00D2FF?style=for-the-badge&logo=robot&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-00D2FF?style=for-the-badge&logoColor=white)
 
 ### 📊 Data & Analytics
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -89,10 +89,20 @@ research    : Computer Vision · NLP · Deep Learning · Generative AI
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 💻 Software Development
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
@@ -121,44 +131,32 @@ timeline
 
 ## 🔬 Research & Publications
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 ### 📚 Research Focus Areas
 
-| Domain | Topics |
-|--------|--------|
-| **Computer Vision** | Deep Learning (YOLO, OCR), Table structure recognition, Document information extraction from images & PDFs |
-| **NLP** | Toxic & non-standard language detection on social media |
-| **Generative AI** | LLM applications, AI automation workflows |
-| **Data Analysis** | Consumer behavior analytics, Big Data |
+- **👁️ Computer Vision** — Deep Learning (YOLO, OCR), table structure recognition, document information extraction from images & PDFs
+- **💬 NLP** — Toxic & non-standard language classification on social media platforms
+- **🤖 Generative AI** — LLM-based automation workflows, AI agent systems
+- **📊 Data Analysis** — Consumer behavior analytics, Big Data processing
 
-</td>
-<td width="45%" valign="top">
+---
 
 ### 📄 Publications
 
 **🌐 International — ICAI-IP 2025**
-> 2 papers accepted & published in proceedings
-> [📖 View Proceedings](https://nxbtaichinh.vn/e-book/efph/ICAI_Proceedings_Optimized.html)
+
+2 papers accepted & published in international conference proceedings
+> 🔗 [View Proceedings (ICAI-IP 2025)](https://nxbtaichinh.vn/e-book/efph/ICAI_Proceedings_Optimized.html)
 
 ---
 
 **🏛️ National — FAIR 2025**
-> Invited to publish in special issue
-> Hanoi University of Industry — Journal of Science & Technology Vol.61 No.11B (Nov 2025)
-> [📖 View Journal](https://jst-haui.vn/vn/tap-chi-dien-tu/hanoi-university-of-industry-journal-of-science-and-technology-vol-61-no-11b-november-2025-electronic-version/65503) · [📄 PDF](https://jst-haui.vn/media/32/uffile-upload-no-title32356.pdf)
 
-</td>
-</tr>
-</table>
+Invited to publish in special issue — Hanoi University of Industry, Journal of Science & Technology Vol.61 No.11B (Nov 2025)
+> 🔗 [View Journal](https://jst-haui.vn/vn/tap-chi-dien-tu/hanoi-university-of-industry-journal-of-science-and-technology-vol-61-no-11b-november-2025-electronic-version/65503) · [📄 PDF](https://jst-haui.vn/media/32/uffile-upload-no-title32356.pdf)
 
 ---
 
 ## 🏆 Awards & Achievements
-
-<div align="center">
 
 | 🏅 Award | 📅 Year | 🏢 Organization |
 |---------|---------|----------------|
@@ -167,22 +165,11 @@ timeline
 | 🎯 **Round 2** — "Practical AI 2025" Competition | 2025 | National |
 | 📡 Obtained **Shopee Open Platform API** access for academic research | 2025 | Shopee Vietnam |
 
-</div>
-
 ---
 
 ## 📜 Certifications
 
-<div align="center">
-
-![Samsung](https://img.shields.io/badge/Samsung%20Innovation%20Campus-1428A0?style=for-the-badge&logo=samsung&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
-
-</div>
+> 🔗 Full verified list on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://linkedin.com/in/an-pham-097466261) [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://credly.com/users/an-ph-m.0999a520) [![Google Dev](https://img.shields.io/badge/Google%20Dev-4285F4?style=flat-square&logo=google&logoColor=white)](https://developers.google.com/profile/u/107078672472822652564)
 
 <details>
 <summary><b>🔽 View Full Certification List (11+ certifications)</b></summary>
@@ -194,16 +181,14 @@ timeline
 | 🏫 **Samsung Innovation Campus** | Certificate of Excellence — AI (Machine Learning, Deep Learning & Practice) · Sep 2025 |
 | 🟢 **NVIDIA** | Fundamentals of Deep Learning |
 | 🟢 **NVIDIA** | Building LLM Applications with Prompt Engineering |
-| 🔵 **Google** | [Data Analytics Professional Certificate](https://developers.google.com/profile/u/107078672472822652564) (8 courses + Capstone — Coursera) |
+| 🔵 **Google** | Data Analytics Professional Certificate (8 courses + Capstone — Coursera) |
 | 🔵 **Google** | Google Analytics Certification |
 | 🔵 **Google** | Gemini Certified Faculty & Premium Teaching & Learning Features |
 | 🔵 **Google** | Build AI with Agent Builder Camp |
 | 🔵 **Google Cloud** | MLOps, GenAI, LLMs, Transformer Models, BERT, BigQuery ML (Cloud Skills Boost) |
-| 🔴 **Oracle** | [OCI 2025 Certified AI Foundations Associate](https://credly.com/users/an-ph-m.0999a520) |
+| 🔴 **Oracle** | OCI 2025 Certified AI Foundations Associate |
 | 🟠 **AWS** | Solutions Architecture Job Simulation (via Forage) |
 | 🔷 **Microsoft** | Microsoft Copilot for Productivity · What Is Generative AI? |
-
-> 🔗 View all verified badges: [Credly Profile](https://credly.com/users/an-ph-m.0999a520) · [Google Developer Profile](https://developers.google.com/profile/u/107078672472822652564)
 
 </details>
 
@@ -213,16 +198,13 @@ timeline
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phamquocan24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamquocan24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phamquocan24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&count_private=true)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phamquocan24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8)
 
-<img width="70%" src="https://streak-stats.demolab.com?user=phamquocan24&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=ffffff"/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=phamquocan24&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=ffffff)
 
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=phamquocan24&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=Pham%20Quoc%20An's%20Contribution%20Graph"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=phamquocan24&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=Pham%20Quoc%20An%27s%20Contribution%20Graph)
 
 </div>
 
