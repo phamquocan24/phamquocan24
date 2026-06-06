@@ -50,9 +50,10 @@ research    : Computer Vision · NLP · Deep Learning · Generative AI · MLOps
 
 <div align="center">
 
-### 🧠 AI / Machine Learning — Full Spectrum
+### 🧠 AI / ML & Deep Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-E95420?style=for-the-badge&logo=keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -64,6 +65,7 @@ research    : Computer Vision · NLP · Deep Learning · Generative AI · MLOps
 ### 👁️ Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
+![Image Segmentation](https://img.shields.io/badge/Segmentation-FF6B6B?style=for-the-badge&logo=target&logoColor=white)
 ![Tesseract](https://img.shields.io/badge/Tesseract%20OCR-5C3EE8?style=for-the-badge&logo=googlelens&logoColor=white)
 
 ### 💬 NLP & Generative AI
