@@ -124,7 +124,7 @@ timeline
     Jan 2026  : 🤖 AI Engineer (Remote) — AnovaLabs 🇳🇱
               : LLM · AI Agents · Prompt Engineering
     Jan 2026  : 🎤 Campus Mantri — GeeksforGeeks
-              : Brand Ambassador at CMC University
+              : Brand Ambassador · Jan 2026 – Jun 2026
 ```
 
 ---
@@ -163,7 +163,6 @@ Invited to publish in special issue — Hanoi University of Industry, Journal of
 | 🥉 **3rd Place** — University-level Scientific Research | 2025 | CMC University |
 | 🏅 **Semi-finalist** — Euréka Student Research Award (27th edition) | 2025 | Vietnam Student Research Council |
 | 🎯 **Round 2** — "Practical AI 2025" Competition | 2025 | National |
-| 📡 Obtained **Shopee Open Platform API** access for academic research | 2025 | Shopee Vietnam |
 
 ---
 
@@ -198,13 +197,13 @@ Invited to publish in special issue — Hanoi University of Industry, Journal of
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phamquocan24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=phamquocan24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phamquocan24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamquocan24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=phamquocan24&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=ffffff)
+<img src="https://streak-stats.demolab.com/?user=phamquocan24&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=phamquocan24&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=Pham%20Quoc%20An%27s%20Contribution%20Graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=phamquocan24&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=Pham%20Quoc%20An's%20Contribution%20Graph" alt="Activity Graph" width="100%"/>
 
 </div>
 
